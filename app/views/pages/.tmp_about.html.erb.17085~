@@ -1,0 +1,122 @@
+<h1>About the website</h1>
+<p>
+	Site Author: Samuel Hubbard<br>
+	Site version: 0.0.1<br>
+	Skeleton Layout w/ no functionality<br>
+	Best viewed in: Firefox, Chrome, Safari (pretty much anything except Internet Explorer)<br>
+	This site is being tested in Firefox.
+</p>
+<p>
+	<b>
+		General Site Theory:
+	</b><br>
+	The total goal behind this website is to give you (my family) the means 
+	to stay in touch and give updates through a more private means than currently 
+	offered in sites like Facebook or Myspace. Because of the unique nature of 
+	exclusivity the site will operate slightly differently than a public social 
+	networking site. There will be no need to send friend requests. Once you are 
+	a member of the website you will automatically be "friends" with all the other members. 
+	The site is primarily being developed for my family. However, you can always 
+	invite a friend to the website. The friend will be considered a guest and 
+	will be subject to the rest of the family. It will be outlined in greater 
+	detail upon the launch of the site via the Terms of Service but what this 
+	really means is that I reserve the right to remove a friend's account at any 
+	time for any reason. The reason will generally be that one (and it will only take 
+	one) family member does not want that person to be a part of this site. The reason 
+	behind this is that this site is in existence primarily for the family. Overall, 
+	I am looking forward to the full launch of this website.
+</p>
+<p>
+	<b>
+		Current version specifications:
+	</b>
+	<ul>
+		<li>
+			The general layout for how the website will look
+		</li>
+	</ul>
+<p>
+	<b>
+		Version 1.0.0 (Launch) will contain:
+	</b>
+	<ul>
+		<li>
+			Profiles
+		</li>
+		<li>
+			Global Status Stream
+		</li>
+		<li>
+			Personal Status Stream
+		</li>
+		<li>
+			Personal Photo Gallery
+		</li>
+		<li>
+			The ability to comment on statuses and pictures
+		</li>
+		<li>
+			Private messages
+		</li>
+	</ul>
+</p>
+<p>
+	<b>
+		Version 2.0.0 will contain:
+	</b>
+	<ul>
+		<li>
+			Global Chat
+		</li>
+		<li>
+			Private Chat
+		</li>
+		<li>
+			The ability to upload and view video
+		</li>
+		<li>
+			Groups (Giving you the ability to filter information to specific groups of people)
+		</li>
+		<li>
+			General upgrades to the basic site functionality (i.e. updated looks, updates to the status streams, etc)
+		</li>
+		<li>
+			Events (i.e. birthdays, anniversaries, and possibly user created events)
+		<li>
+			A mobile version of the website for mobile phone browsers
+		</li>
+	</ul>
+</p>
+<p>
+	<b>
+		Other future considerations:
+	</b>
+	<ul>
+		<li>
+			Android App
+		</li>
+		<li>
+			iPhone App
+		</li>
+		<li>
+			Windows 7 Mobile App
+		</li>
+	</ul>
+	<i>*This is extremely dependent on me being able to get the Developer SDKs. Plus, in 
+	Apple's case (and possibly Microsoft's) I would also need to get the App approved by them 
+	for you to be able to download and use. The SDK's can cost money as well as keeping it in their 
+	App Store.</i>
+</p>
+<p>
+	Keep in mind that these future features are not set in stone and may change 
+	or completely disappear. With that being said, there may be new or different 
+	ones that pop up along the way.
+</p>
+<p>
+	This website is being developed for my family and their close friends. 
+	It will be exclusive to those people.
+</p>
+<p>
+	If you have any ideas <b>(ESPECIALLY A NAME FOR THE SITE)</b> that you would like to see implemented in the site 
+	please let me know. I want to make this website as personalized to your wishes as possible.
+</p>
