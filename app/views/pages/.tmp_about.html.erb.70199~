@@ -2,7 +2,7 @@
 <p>
 	<b>Current Actual Site Statistics:</b><br>
 	Site Author: Samuel Hubbard<br>
-	Site version: 0.3.4<br>
+	Site version: 0.1.1<br>
 	Site capabilities: User Model Running (You can create an account, sign in, and sign out)<br>
 	Best viewed in: Firefox, Chrome, Safari (pretty much anything except Internet Explorer)<br>
 	This site is being tested in Firefox.<br>
@@ -54,16 +54,16 @@
 			Profiles
 		</li>
 		<li>
-			Global Status Stream <strong>[DONE]</strong>
+			Global Status Stream
 		</li>
 		<li>
-			Personal Status Stream <strong>[DONE]</strong>
+			Personal Status Stream
 		</li>
 		<li>
 			Personal Photo Gallery
 		</li>
 		<li>
-			The ability to comment on statuses and pictures <strong>[DONE]</strong>
+			The ability to comment on statuses and pictures
 		</li>
 		<li>
 			Private messages

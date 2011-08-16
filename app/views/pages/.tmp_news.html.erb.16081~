@@ -1,25 +1,6 @@
 <h1>Site News</h1>
 <p>
 	<b>08.15.2011</b><br>
-	After A TON of debugging code... I have the status feed running as well 
-	as the relationship model that I am attaching it to. Essentially, what 
-	I have decided to do with that is allow you to choose if you want their 
-	status updates in your status stream. I currently have it set up like 
-	twitter where you "follow" the person. The reason why I have taken that 
-	route is because there is a possibility that you may not want to read 
-	someone's status updates. Either way, outside of that, there will be no 
-	relationship model for the rest of the site. You will be able to go to anyone's 
-	profile to view their info, status, pictures, etc...<br><br>
-	Here's what I will be working on over the next couple of weeks:
-	<ul>
-		<li>Comments</li>
-		<li>Profiles</li>
-		<li>Private Messages</li>
-		<li>... and slowly getting started on the dauntign task of putting together a photo gallery</li>
-	</ul>
-</p>
-<p>
-	<b>08.15.2011</b><br>
 	<strong>Nerd Speak:</strong> I have completed the user model for the website. The 
 	database is up and running with the user table. The passwords are 
 	encrypted, hashed, and salted. I have set up a session manager that 
