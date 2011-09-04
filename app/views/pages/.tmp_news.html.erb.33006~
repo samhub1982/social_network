@@ -1,23 +1,5 @@
 <h1>Site News</h1>
 <p>
-	<b>09.04.2011</b><br>
-	Just a real quick update.  I believe that I have most of the back end of 
-	the comments completed.  Now, all I have left for that is to implement the 
-	front end... which, essentially, is the portion that you will see.  Hopefully, 
-	I will get that figured out by the end of the week so that I can move on to 
-	the profile, private messages, or picture gallery.  I may drop the public 
-	messages as you will be able to make status updates and be able to ask anyone 
-	any questions or make any comments there.  I don't see the user base getting 
-	too large.  Let me know what you think.<br><br>
-	I am still trying to figure out what to name the site.  I have the general 
-	parameters listed on the home page for what I would like incase anyone is 
-	interested in contributing their ideas.  Once I get the name of the website 
-	figured out and the domain name purchased I will start work on the site logo.<br><br>
-	I may take a break from programming the main site to add a post functionality to this 
-	site so that you can easily post comments or suggestions.<br><br>
-	That is all....
-</p>
-<p>
 	<b>08.15.2011</b><br>
 	After A TON of debugging code... I have the status feed running as well 
 	as the relationship model that I am attaching it to. Essentially, what 
